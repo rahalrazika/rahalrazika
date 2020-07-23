@@ -1,5 +1,5 @@
 ### Hi Whats's Happening
-i'm Razika you can call me Raza 
+I'm Razika you can call me Raza 
 and i'm student at Microverse, a future Full-stack developer
 
 - **Code:**  <code><img height="14" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
