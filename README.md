@@ -1,11 +1,13 @@
-### Hi there :salut_main:
+### Hi Whats's Happening
 i'm Razika you can call me Raza 
 and i'm student at Microverse, a future Full-stack developer
 
-- **Code:**  Bootstrap, HTML5, CSS3
+- **Code:**  <code><img height="14" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="14" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="14" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 - **Tools & Methods:** Git, GitHub, Mobile/Responsive Development, Chrome Dev Tools, VS Code, Slack	
 - **Professional:** Remote Pair-Programming, Teamwork
-:pousse: I’m currently learning **Ruby**
+:pousse: I’m currently learning **Ruby** <code><img height="14" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
 ###  :boîte_aux_lettres_drapeau_relevé: How to reach me	
 - Linkedin : [Razika Rahal](https://www.linkedin.com/in/razika-rahal-85539bbb/)
 - Twitter: [@RereRere055](https://twitter.com/RereRere055)
