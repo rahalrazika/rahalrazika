@@ -11,8 +11,7 @@ and i'm student at Microverse, a future Full-stack developer
 - **Professional:** Remote Pair-Programming, Teamwork
 
 
- 🌱 I’m currently learning **Rails** <code><img height="14" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png"></code>
- 
+ 🌱 I’m currently learning **Ruby On Rails** 
  
 ###   📫 How to reach me	
 - Linkedin : [Razika Rahal](https://www.linkedin.com/in/razika-rahal-85539bbb/)
