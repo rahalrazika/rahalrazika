@@ -6,6 +6,9 @@ and i'm student at Microverse, a future Full-stack developer
 <code><img height="14" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="14" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="14" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
+<code><img height="14" src="https://www.pngfind.com/pngs/m/74-744138_mysql-logo-png-mysql-transparent-png.png"></code>
+
+
  
 - **Tools & Methods:** Git, GitHub, Mobile/Responsive Development, Chrome Dev Tools, VS Code, Slack	
 - **Professional:** Remote Pair-Programming, Teamwork
