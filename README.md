@@ -1,6 +1,6 @@
 ### Hi Whats's Happening
 I'm Razika you can call me Raza 
-and i'm student at Microverse, a future Full-stack developer
+and i'm student at Microverse, a Full-stack developer👩🏻‍💻Microverse Student👩🏻‍🎓📚💻Pet Lover🐱❤️
 
 - **Code:**  <code><img height="14" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="14" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
