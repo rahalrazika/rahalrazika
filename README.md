@@ -18,7 +18,7 @@ and i'm  a Full-stack developer👩🏻‍💻Microverse Student👩🏻‍🎓�
  
 ###   📫 How to reach me	
 - Linkedin : [Razika Rahal](https://www.linkedin.com/in/razika-rahal-85539bbb/)
-- Twitter: [@RereRere055](https://twitter.com/RereRere055)
+- Twitter: [@RahalRazika](https://twitter.com/RahalRazika)
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/?username=rahalrazika&show_icons=true&hide_border=true" />
