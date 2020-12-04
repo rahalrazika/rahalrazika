@@ -1,5 +1,5 @@
 ### Hi Whats's Happening
-<img width="50%"  alt="Github" src="https://github.com/rahalrazika/rahalrazika/blob/master/download-icons8.png" />
+<img width="50%" align="right"  alt="Github" src="https://github.com/rahalrazika/rahalrazika/blob/master/download-icons8.png" />
 
 I'm Razika you can call me Raza 
 and i'm  a Full-stack developer👩🏻‍💻Microverse Student👩🏻‍🎓📚💻Pet Lover🐱❤️
