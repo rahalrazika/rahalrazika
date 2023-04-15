@@ -2,7 +2,7 @@
 <img width="50%" align="right"  alt="Github" src="https://github.com/rahalrazika/rahalrazika/blob/master/download-icons8.png" />
 
 I'm Razika you can call me Raza 
-and i'm  a Full-stack developer👩🏻‍💻Microverse Student👩🏻‍🎓📚💻Pet Lover🐱❤️
+and i'm  a Front-End developer👩🏻‍💻Microverse Student👩🏻‍🎓📚💻Pet Lover🐱❤️
 
 - **Code:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
