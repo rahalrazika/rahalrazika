@@ -26,7 +26,7 @@ and I'm  a Front-End developer👩🏻‍💻Microverse Student👩🏻‍🎓�
   [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/razika/)
   [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://razikarahal.netlify.app/)
   [![Visits](https://komarev.com/ghpvc/?username=rahalrazika&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/rahalrazika)
-  [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/RahalRazika)
+  [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/RazikaRahal)
 
 </p>
 
